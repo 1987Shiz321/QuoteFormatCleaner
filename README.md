@@ -1,0 +1,2 @@
+# QuoteFormatCleaner
+メールの引用テキストを整形するPythonツール
