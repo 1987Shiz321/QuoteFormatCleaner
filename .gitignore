@@ -1,0 +1,21 @@
+# 設定ファイル（個人設定が含まれる可能性）
+config.ini
+
+# ログファイル
+*.log
+
+# 入力/出力ディレクトリ
+input/
+output/
+
+# バックアップ
+backup/
+
+# Python関連
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
