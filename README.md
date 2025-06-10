@@ -34,7 +34,7 @@
 1. リポジトリをクローン:
 ```bash
 git clone https://github.com/1987Shiz321/QuoteFormatCleaner.git
-cd quote-format-cleaner
+cd QuoteFormatCleaner
 ```
 
 2. 追加のインストールは不要（Python標準ライブラリのみ使用）
@@ -116,7 +116,7 @@ list = 記、件名、宛先、差出人
 ### ファイル構成
 
 ```
-quote-format-cleaner/
+QuoteFormatCleaner/
 ├── email_cleaner.py      # メインスクリプト
 ├── config.ini            # 設定ファイル（自動生成）
 ├── email_cleaner.log     # ログファイル
